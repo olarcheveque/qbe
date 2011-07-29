@@ -1,4 +1,6 @@
 *.xml
+*.pyc
+*.egg-info
 /artworks
 /backups
 /base
